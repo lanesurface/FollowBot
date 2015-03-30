@@ -11,4 +11,4 @@ Follow Bot re-follows and follows followers of followers. It can follow up to 1.
 * Change it to <code>Read and Write</code>.
 * Under <code>Your Access Token</code> click <code>Generate Access Token and Access Secret</code>.
 * In the <code>FollowBot.py</code> file, open it and replace the values <code>CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY, and ACCESS_SECRET</code> with your own respective values.
-* Run the <code>FollowBot.py<code> file.
+* Run the <code>FollowBot.py</code> file.
