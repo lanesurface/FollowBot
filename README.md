@@ -1,7 +1,7 @@
 # FollowBot
 Gain an enormous amount of followers with Follow Bot
 
-Follow Bot re-follows and follows followers of followers. It can follow up to 1.008K people per week, that's 40.32K people per month. That more people that you follow, the more that follow you back.
+Follow Bot re-follows and follows followers of followers. It can follow up to 10.08K people per week, that's 40.32K people per month. That more people that you follow, the more that follow you back.
 
 <h5>Installation Instructions</h5>
 * Follow Bot uses the Tweepy API to connect to Twitter, you will need to download it with <code>pip install tweepy</code>.
